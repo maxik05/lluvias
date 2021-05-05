@@ -1,2 +1,135 @@
-﻿Fecha,Aº Barú - Subcomisaria,Colón - Obras Sanitarias,Mabragaña - Brigada Avigeato,Ubajay - Comisaria,Villa Elisa - Comisaria,El Redomon - Destacamento,El Yuqueri - Destacamento,La Criolla - Comisaria,Los Charruas - Comisaria,Nueva Escocia - Comisaria,Pedernal - Comisaria,Pedernal - Comisaria,Pto. Yerua - Comisaria,Costa Grande - Comisaria,Isletas - Comisaria,Villa Libertador General San Martin - Comisaria,Bella Union - Destacamento,Chajari - (Aeroclub),El Cerrito - Puesto Caminero,Federación - Corralon Municipal,Los Conquistadores - Comisaria Nº 16,Mandisovi,San Jaime - Puesto Caminero,San Jaime (Corralon Municipal),San Ramon - Comisaria Nº 20,Santa Ana - Comisaria,Sta. Maria de Tatuti - Comisaria Nº 22,Banderas,Chañar - Comisaria,Conscripto Bernardi - Comisaria,El Cimarron - Comisaria,Elias Romero - Distrito Moreyra - Comisaria,Federal - Brigada Abigeato,Federal - Jefatura Departamental,Nueva Vizcaya - Comisaria,Sauce de Luna - Comisaria,Atencio - Subcomisaria,La Esmeralda - Comisaria,La Hierra - Destacamento Nº 52,La Verbena - Comisaria,Las Mulitas - Comisaria Nº 19,Mulas Grandes - Destacamento Nº 54,Pte. de Hierro - Destacamento Nº 50,Rincon del Chañar - Destacamento Nº 55,San Victor - Subcomisaria Nº 22,8º Distrito - Comisaria Nº 27,Aldea Asunción 3º - Dist. Comisaria,Gral. Galarza - Comisaria,Lazo - Comisaria,Puerto Ruiz - Comisaria,Alarcon - Destacamento,Aldea San Antonio (Scheffer),Costa Río Uruguay - Comisaria,Costa San Antonio - Destacamento,Cuchilla Redonda - Comisaria,Escriña - Destacamento,Estación Gilbert - Comisaria,Faustino M. Parera - Destacamento,Gral. Almada - Comisaria,Irazusta - Subcomisaria,Pehuajo Sur - Subcomisaria,Perdices - Comisaria,Rincon del Gato - Comisaria,Talitas - Subcomisaria,Bazo Largo - Puesto Caminero,Mazaruca - Destacamento,Villa Paranacito - Prefectura,Villa Paranacito - Prefectura,Alcaraz Sur - Destacamento,Bovril - Comisaria Nº 16,Colonia Avigdor,Colonia Oficial Nº 3,El Carmen - Yeso Oeste,El Quebracho - Destacamento Santa Elena,Estacas - Destacamento,La Lila - Particular,La Paz - Subprefectura,Paso Telegrafo - Puesto Caminero,San Gustavo - Comisaria,Santa Elena - Prefectura,Tacuara Ombu - Comisaria Nº 24,Tacuara Yacare - Comisaria Nº 23,20 de Septiembre - Comisaria Nº 17,Algarrobito - Comisaria Nº 1,Aranguren - Comisaria,Betbeder - Comisaria,Crucesita 3ª - Comisaria,Crucesita 7ª - Escuela Nº 87,Crucesita 8ª - Comisaria Nº 27,Don Cristobal 2ª,El Pueblito - Comisaria Nº 20,Febre - Comisaria Nº 19,La Llave - Comisaria,Sección Urquiza Comisaria Nº 28,Arroyo Maria (Nidia Faez),Cerrito - Gdor. Racedo,Curtiembre Destacamento,Eigenfeld - Particular,Espinillo - Subcomisaria,Hernandarias - Comisaria,Paraná - DPH,Pueblo Bellocq - Estación Las Garzas,Pueblo Brugo - Comisaria,Segui - Comisaria,Tabossi - Municipalidad,Viale - Comisaria,Villa Urquiza - Comisaria,San Salvador - Comisaria,Durazno - Comisaria,Gdor Echagüe - Comisaria,Gdor Mansilla - Comisaria,Gdor. Macia - Comisaria,Rosario del Tala - OSM,Basavilbaso - Comisaria,Estación Herrera - Comisaria,Las Moscas - Subcomisaria,Libaros - Subcomisaria,Pronunciamiento - Comisaria,Santa Anita - Comisaria,Villa Mantero - Comisaria,Antelo (Sara de Muzzio),Hinojal - Comisaria Nº 23,Laguna del Pescado - Comisaria,Montoya - Comisaria Nº 20,Rincon del Nogoya - Comisaria Nº 17,Ingeniero Sajaroff - Subcomisaria,Lucas Norte - Subcomisaria,Lucas Sur I - Subcomisaria,Mojones Norte - Comisaria Nº 22,Mojones Sur I - Comisaria Nº 27,Paso de La Laguna - Raices Oeste,Raices Oeste - Comisaria Nº 29,Villa Clara - Comisaria,Villa Dominguez - Comisaria
-04/05/2021,0,0,0,0,0,52,49,53,55,48,47,47,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,33,35,35,33,36,34,36,34,33,32,38,38,36,36,33,29,30,0,0,0,0,0,6,6,10,11,5,2,6,7,8,8,5,2,1,8,10,10,11,11,75,77,72,85,83,87,88,85,88,87,88,85,90,77,10,11,11,10,12,13,11,12,11,13,15,12,22,21,12,23,22,28,24,26,23,25,24,22,28,38,6,8,8,7,5,0,0,0,0,0,0,0,17,12,11,12,17,42,52,52,51,55,46,46,52,55
+﻿Estación,Precipitación(mm)
+Aº Barú - Subcomisaria,0
+Colón - Obras Sanitarias,0
+Mabragaña - Brigada Avigeato,0
+Ubajay - Comisaria,0
+Villa Elisa - Comisaria,0
+El Redomon - Destacamento,52
+El Yuqueri - Destacamento,49
+La Criolla - Comisaria,53
+Los Charruas - Comisaria,55
+Nueva Escocia - Comisaria,48
+Pedernal - Comisaria,47
+Pedernal - Comisaria,47
+Pto. Yerua - Comisaria,44
+Costa Grande - Comisaria,0
+Isletas - Comisaria,0
+Villa Libertador General San Martin - Comisaria,0
+Bella Union - Destacamento,0
+Chajari - (Aeroclub),0
+El Cerrito - Puesto Caminero,0
+Federación - Corralon Municipal,0
+Los Conquistadores - Comisaria Nº 16,0
+Mandisovi,0
+San Jaime - Puesto Caminero,0
+San Jaime (Corralon Municipal),0
+San Ramon - Comisaria Nº 20,0
+Santa Ana - Comisaria,0
+Sta. Maria de Tatuti - Comisaria Nº 22,0
+Banderas,30
+Chañar - Comisaria,33
+Conscripto Bernardi - Comisaria,35
+El Cimarron - Comisaria,35
+Elias Romero - Distrito Moreyra - Comisaria,33
+Federal - Brigada Abigeato,36
+Federal - Jefatura Departamental,34
+Nueva Vizcaya - Comisaria,36
+Sauce de Luna - Comisaria,34
+Atencio - Subcomisaria,33
+La Esmeralda - Comisaria,32
+La Hierra - Destacamento Nº 52,38
+La Verbena - Comisaria,38
+Las Mulitas - Comisaria Nº 19,36
+Mulas Grandes - Destacamento Nº 54,36
+Pte. de Hierro - Destacamento Nº 50,33
+Rincon del Chañar - Destacamento Nº 55,29
+San Victor - Subcomisaria Nº 22,30
+8º Distrito - Comisaria Nº 27,0
+Aldea Asunción 3º - Dist. Comisaria,0
+Gral. Galarza - Comisaria,0
+Lazo - Comisaria,0
+Puerto Ruiz - Comisaria,0
+Alarcon - Destacamento,6
+Aldea San Antonio (Scheffer),6
+Costa Río Uruguay - Comisaria,10
+Costa San Antonio - Destacamento,11
+Cuchilla Redonda - Comisaria,5
+Escriña - Destacamento,2
+Estación Gilbert - Comisaria,6
+Faustino M. Parera - Destacamento,7
+Gral. Almada - Comisaria,8
+Irazusta - Subcomisaria,8
+Pehuajo Sur - Subcomisaria,5
+Perdices - Comisaria,2
+Rincon del Gato - Comisaria,1
+Talitas - Subcomisaria,8
+Bazo Largo - Puesto Caminero,10
+Mazaruca - Destacamento,10
+Villa Paranacito - Prefectura,11
+Villa Paranacito - Prefectura,11
+Alcaraz Sur - Destacamento,75
+Bovril - Comisaria Nº 16,77
+Colonia Avigdor,72
+Colonia Oficial Nº 3,85
+El Carmen - Yeso Oeste,83
+El Quebracho - Destacamento Santa Elena,87
+Estacas - Destacamento,88
+La Lila - Particular,85
+La Paz - Subprefectura,88
+Paso Telegrafo - Puesto Caminero,87
+San Gustavo - Comisaria,88
+Santa Elena - Prefectura,85
+Tacuara Ombu - Comisaria Nº 24,90
+Tacuara Yacare - Comisaria Nº 23,77
+20 de Septiembre - Comisaria Nº 17,10
+Algarrobito - Comisaria Nº 1,11
+Aranguren - Comisaria,11
+Betbeder - Comisaria,10
+Crucesita 3ª - Comisaria,12
+Crucesita 7ª - Escuela Nº 87,13
+Crucesita 8ª - Comisaria Nº 27,11
+Don Cristobal 2ª,12
+El Pueblito - Comisaria Nº 20,11
+Febre - Comisaria Nº 19,13
+La Llave - Comisaria,15
+Sección Urquiza Comisaria Nº 28,12
+Arroyo Maria (Nidia Faez),22
+Cerrito - Gdor. Racedo,21
+Curtiembre Destacamento,12
+Eigenfeld - Particular,23
+Espinillo - Subcomisaria,22
+Hernandarias - Comisaria,28
+Paraná - DPH,24
+Pueblo Bellocq - Estación Las Garzas,26
+Pueblo Brugo - Comisaria,23
+Segui - Comisaria,25
+Tabossi - Municipalidad,24
+Viale - Comisaria,22
+Villa Urquiza - Comisaria,28
+San Salvador - Comisaria,38
+Durazno - Comisaria,6
+Gdor Echagüe - Comisaria,8
+Gdor Mansilla - Comisaria,8
+Gdor. Macia - Comisaria,7
+Rosario del Tala - OSM,5
+Basavilbaso - Comisaria,0
+Estación Herrera - Comisaria,0
+Las Moscas - Subcomisaria,0
+Libaros - Subcomisaria,0
+Pronunciamiento - Comisaria,0
+Santa Anita - Comisaria,0
+Villa Mantero - Comisaria,0
+Antelo (Sara de Muzzio),17
+Hinojal - Comisaria Nº 23,12
+Laguna del Pescado - Comisaria,11
+Montoya - Comisaria Nº 20,12
+Rincon del Nogoya - Comisaria Nº 17,17
+Ingeniero Sajaroff - Subcomisaria,42
+Lucas Norte - Subcomisaria,52
+Lucas Sur I - Subcomisaria,52
+Mojones Norte - Comisaria Nº 22,51
+Mojones Sur I - Comisaria Nº 27,55
+Paso de La Laguna - Raices Oeste,46
+Raices Oeste - Comisaria Nº 29,46
+Villa Clara - Comisaria,52
+Villa Dominguez - Comisaria,55
